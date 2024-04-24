@@ -68,4 +68,4 @@ if st.button('Hitung Losses'):
         st.error(f"Error predicting location: {e}")
 
 # Shortcut Link
-st.markdown("[Opsi 2 : Prediksi Linear Model](https://predkas-jfsc9tajwgwqxpzb8wui4e.streamlit.app/)")
+st.markdown("[Opsi 2 : Prediksi Linear Model](https://kttsgl-4svum35wicsry69wm2bk85.streamlit.app/)")
