@@ -2,7 +2,7 @@ import streamlit as st
 
 
 def predict_location(x1, x2):
-    y = 0.59 - 0.07 * x1 + 9.57 * x2
+    y = 33.73 - 1.12 * x1 + 2.44 * x2
     return y
 
 # Main Streamlit app
